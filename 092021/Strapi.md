@@ -1,4 +1,4 @@
-## Giới thiệu Higher-Order Component
+## Xây dựng trang web đơn giản với Strapi CMS
 
 ### Strapi là gì?
 
